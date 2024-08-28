@@ -1,0 +1,16 @@
+{
+    "addTeam": "Add Team",
+    "editTeam": "Edit Team",
+    "removeTeam": "Remove Team",
+    "hello": "Hello World!",
+
+    "table": {
+        "teamName": "Team Name",
+        "teamProject": "Team Project",
+        "teamArea": "Team Area",
+        "teamMember1": "Team Member",
+        "teamMember2": "Team Member"
+    },
+    "flyoutHeader": "Add Team Information",
+    "flyoutWidgetName": "WIDGET"
+}
